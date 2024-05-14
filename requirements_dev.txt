@@ -1,6 +1,7 @@
 black==23.3.0 # match what's in pyproject.toml
 build
 grpcio-tools==1.48.2
+grpcio==1.20.0
 httpx
 hypothesis
 hypothesis[numpy]
